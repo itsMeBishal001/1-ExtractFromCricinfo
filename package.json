@@ -1,0 +1,19 @@
+{
+  "name": "extractfromcricinfo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "extracter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "excel4node": "^1.7.2",
+    "jsdom": "^20.0.0",
+    "minimist": "^1.2.6",
+    "pdf-lib": "^1.17.1"
+  }
+}
