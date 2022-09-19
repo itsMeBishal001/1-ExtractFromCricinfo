@@ -1,7 +1,6 @@
 {
   "name": "extractfromcricinfo",
   "version": "1.0.0",
-  "description": "",
   "main": "extracter.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,5 +14,15 @@
     "jsdom": "^20.0.0",
     "minimist": "^1.2.6",
     "pdf-lib": "^1.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsMeBishal001/1-ExtractFromCricinfo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/itsMeBishal001/1-ExtractFromCricinfo/issues"
+  },
+  "homepage": "https://github.com/itsMeBishal001/1-ExtractFromCricinfo#readme",
+  "description": ""
 }
